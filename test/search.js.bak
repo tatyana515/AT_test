@@ -21,8 +21,6 @@ module.exports={
 		
 		browser.checkSearchingResult('.text-info[href^="/product/"]', word);
 		
-		console.log('---UPDATED---')
-		
 		},
 
 };
